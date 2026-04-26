@@ -1,6 +1,6 @@
 # Afeka First Project - Top 5 Places
 
-**Student Name:** Andrei
+**Student Name:** Andrei Tarkhanov
 
 ## Server Address
 The website is hosted at:
