@@ -4,7 +4,7 @@
 
 ## Server Address
 The website is hosted at:
-`[Insert your server address here, e.g., GitHub Pages link]`
+https://tarkhanov33-ui.github.io/Afeka-Andrei-/index.html
 
 ## About the Project
 A simple website containing:
